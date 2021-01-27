@@ -1,6 +1,6 @@
 # 数据库连接串 & 密码
 mysql:
-  url: 'jdbc:mysql://localhost:3306/foodie-cloud-user?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=Asia/Shanghai'
+  url: 'jdbc:mysql://172.16.160.230:3306/foodie-cloud-user?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=Asia/Shanghai'
   username: 'root'
   password: '{cipher}f4667e629d6087d7917f5e88ede7ca97b4dd179ed37360402940e9f4f2d667a7'
   
